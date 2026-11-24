@@ -12,7 +12,7 @@ WaveBack is uniquely designed for ease of use: it needs no coding, runs offline 
 | Edition | What it includes | Where |
 |---|---|---|
 | **WaveBack (Free)** v1.3.1 | Flow speed, flow depth and run-up from deposits, paleotsunami settings, checks, figures, tables, methods paragraph | [Zenodo](https://doi.org/10.5281/zenodo.24511298) · [TWM Global store](https://twmglobal.myinstamojo.com/product/waveback-free-tsunami-flow-speed-from-sandy-) |
-| **WaveBack Pro** v1.3.1 | Everything in Free, plus tsunami or storm screening, boulder transport, Monte Carlo uncertainty and ground-profile flow depths | Coming soon on the [TWM Global store](https://twmglobal.myinstamojo.com) |
+| **WaveBack Pro** v1.3.1 | Everything in Free, plus tsunami or storm screening, boulder transport, Monte Carlo uncertainty and ground-profile flow depths | [TWM Global store](https://twmglobal.myinstamojo.com/product/waveback-pro) |
 
 WaveBack is a single HTML file: save it, open it in Chrome, Edge or Firefox, and start. No installation, no account and no internet connection are needed, and your data never leaves your computer.
 
@@ -45,7 +45,9 @@ The User Guide (PDF, in the download) explains each step, how to choose settings
 - **Monte Carlo uncertainty:** median speed and Froude number with 95% ranges and histograms, from a reproducible random seed
 - **Ground profile and water surface:** flow depth at every point from surveyed elevations, without assuming a Froude number
 
-Pro features are left out of the free file itself. Store: https://twmglobal.myinstamojo.com
+Pro features are left out of the free file itself.
+
+Free: https://twmglobal.myinstamojo.com/product/waveback-free-tsunami-flow-speed-from-sandy- · Pro: https://twmglobal.myinstamojo.com/product/waveback-pro
 
 Questions or issues: open an [issue](../../issues) or write to twmglobals@gmail.com
 
