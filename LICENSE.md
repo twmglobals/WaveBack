@@ -8,4 +8,4 @@ You may copy and redistribute WaveBack in any medium or format, for any purpose,
 
 Full licence text: https://creativecommons.org/licenses/by-nd/4.0/legalcode
 
-WaveBack Pro is sold separately on https://twmglobal.myinstamojo.com and is not covered by this repository.
+WaveBack Pro is sold separately at https://twmglobal.myinstamojo.com/product/waveback-pro and is not covered by this repository.
