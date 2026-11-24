@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use WaveBack, please cite it as below."
+type: software
+title: "WaveBack: tsunami flow speed, depth and run-up from tsunami deposits"
+version: "1.3.1"
+date-released: "2026-11-23"
+authors:
+  - family-names: "Khan"
+    given-names: "Afzal"
+    orcid: "https://orcid.org/0000-0001-8844-122X"
+keywords:
+  - tsunami deposits
+  - paleotsunami
+  - flow speed inversion
+  - sediment transport
+  - TsuSedMod
+  - Jaffe and Gelfenbaum
+  - tsunami run-up
+  - Monte Carlo uncertainty
+  - tsunami and storm deposits
+  - boulder transport
+  - grain size
+  - coastal hazards
+license: CC-BY-ND-4.0
+doi: 10.5281/zenodo.24511298
+url: "https://doi.org/10.5281/zenodo.24511298"
+repository-code: "https://github.com/twmglobals/WaveBack"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24511298
+    description: "Version DOI for WaveBack 1.3.1"
+  - type: doi
+    value: 10.5281/zenodo.24511297
+    description: "Concept DOI for all versions of WaveBack"
