@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use WaveBack, please cite it as below."
 type: software
 title: "WaveBack: tsunami flow speed, depth and run-up from tsunami deposits"
-version: "1.3.1"
-date-released: "2026-11-23"
+version: "1.3.2"
+date-released: "2026-11-26"
 authors:
   - family-names: "Khan"
     given-names: "Afzal"
@@ -22,13 +22,10 @@ keywords:
   - grain size
   - coastal hazards
 license: CC-BY-ND-4.0
-doi: 10.5281/zenodo.24511298
-url: "https://doi.org/10.5281/zenodo.24511298"
+doi: 10.5281/zenodo.24511297
+url: "https://doi.org/10.5281/zenodo.24511297"
 repository-code: "https://github.com/twmglobals/WaveBack"
 identifiers:
-  - type: doi
-    value: 10.5281/zenodo.24511298
-    description: "Version DOI for WaveBack 1.3.1"
   - type: doi
     value: 10.5281/zenodo.24511297
     description: "Concept DOI for all versions of WaveBack"
