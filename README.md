@@ -11,8 +11,8 @@ WaveBack is uniquely designed for ease of use: it needs no coding, runs offline 
 ## Download
 | Edition | What it includes | Where |
 |---|---|---|
-| **WaveBack (Free)** v1.3.1 | Flow speed, flow depth and run-up from deposits, paleotsunami settings, checks, figures, tables, methods paragraph | [Zenodo](https://doi.org/10.5281/zenodo.24511298) · [TWM Global store](https://twmglobal.myinstamojo.com/product/waveback-free-tsunami-flow-speed-from-sandy-) |
-| **WaveBack Pro** v1.3.1 | Everything in Free, plus tsunami or storm screening, boulder transport, Monte Carlo uncertainty and ground-profile flow depths | [TWM Global store](https://twmglobal.myinstamojo.com/product/waveback-pro) |
+| **WaveBack (Free)** v1.3.1 | Flow speed, flow depth and run-up from deposits, paleotsunami settings, checks, figures, tables, methods paragraph | [Zenodo](https://doi.org/10.5281/zenodo.24511298) · [Store](https://twmglobal.myinstamojo.com/product/waveback-free-tsunami-flow-speed-from-sandy-) |
+| **WaveBack Pro** v1.3.1 | Everything in Free, plus tsunami or storm screening, boulder transport, Monte Carlo uncertainty and ground-profile flow depths | [![WaveBack Pro, India (₹)](https://img.shields.io/badge/WaveBack%20Pro-India%20%28%E2%82%B9%29-e07b00?style=for-the-badge)](https://twmglobal.myinstamojo.com/product/waveback-pro) [![WaveBack Pro, International ($)](https://img.shields.io/badge/WaveBack%20Pro-International%20%28%24%29-1f6feb?style=for-the-badge)](https://geomantle.com/waveback) |
 
 WaveBack is a single HTML file: save it, open it in Chrome, Edge or Firefox, and start. No installation, no account and no internet connection are needed, and your data never leaves your computer.
 
@@ -47,7 +47,9 @@ The User Guide (PDF, in the download) explains each step, how to choose settings
 
 Pro features are left out of the free file itself.
 
-Free: https://twmglobal.myinstamojo.com/product/waveback-free-tsunami-flow-speed-from-sandy- · Pro: https://twmglobal.myinstamojo.com/product/waveback-pro
+**Get WaveBack Pro:**
+
+[![WaveBack Pro, India (₹)](https://img.shields.io/badge/WaveBack%20Pro-India%20%28%E2%82%B9%29-e07b00?style=for-the-badge)](https://twmglobal.myinstamojo.com/product/waveback-pro) [![WaveBack Pro, International ($)](https://img.shields.io/badge/WaveBack%20Pro-International%20%28%24%29-1f6feb?style=for-the-badge)](https://geomantle.com/waveback)
 
 Questions or issues: open an [issue](../../issues) or write to twmglobals@gmail.com
 
@@ -65,4 +67,4 @@ Results support, and do not replace, the judgment of a qualified specialist.
 ## Licence
 WaveBack is distributed under the Creative Commons Attribution-NoDerivatives 4.0 International licence (CC BY-ND 4.0); see [LICENSE.md](LICENSE.md).
 
-Afzal Khan (ORCID [0000-0001-8844-122X](https://orcid.org/0000-0001-8844-122X)) · distributed by TWM Global · Developed by an IIT alumnus and GATE UPSC qualifier
+Afzal Khan (ORCID [0000-0001-8844-122X](https://orcid.org/0000-0001-8844-122X)) · Developed by an IIT alumnus and GATE UPSC qualifier
